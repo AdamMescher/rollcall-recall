@@ -8,7 +8,7 @@ At the beginning of each new semester or school year, teachers are faced with th
 
 1. [Google Cue](http://joelcalifa.com/work/google/)
 2. [Faces](http://nenadmilosevic.co/faces-app/)
-3. [Pupils App by Volkan Günal](https://volkan.design/pupils.html?mc_cid=6614e8d97f&mc_eid=b9c35cdfa7)
+3. [Pupils](https://volkan.design/pupils.html?mc_cid=6614e8d97f&mc_eid=b9c35cdfa7)
 
 Project with monorepo project from [this tutorial](https://dev.to/brunolemos/tutorial-100-code-sharing-between-ios-android--web-using-react-native-web-andmonorepo-4pej).
 
