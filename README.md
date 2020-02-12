@@ -6,7 +6,7 @@ At the beginning of each new semester or school year, teachers are faced with th
 
 # Idea
 
-Student face / name flashcard cross-platform application that a teacher can use to train their recognition of current students. 
+Student face & name flashcard cross-platform application that a teacher can use to train their recognition of current students. 
 
 ## Examples
 
