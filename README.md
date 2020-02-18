@@ -6,7 +6,7 @@ At the beginning of each new semester or school year, teachers are faced with th
 
 ### How to run
 
-_Requirements: [React Native](https://facebook.github.io/react-native/docs/getting-started.html#native)
+_Requirements_: [React Native](https://facebook.github.io/react-native/docs/getting-started.html#native)
 
   - `$ git clone git@github.com:brunolemos/react-native-web-monorepo.git`
   - `$ cd react-native-web-monorepo`
