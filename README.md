@@ -8,7 +8,7 @@ At the beginning of each new semester or school year, teachers are faced with th
 
 _Requirements_: [React Native](https://facebook.github.io/react-native/docs/getting-started.html#native)
 
-  - `$ git clone git@github.com:brunolemos/react-native-web-monorepo.git`
+  - `$ git clone git@github.com:AdamMescher/rollcall-recall.git`
   - `$ cd react-native-web-monorepo`
   - `$ yarn`
   - `$ cd packages/mobile/ios`
