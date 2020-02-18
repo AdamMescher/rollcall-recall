@@ -23,6 +23,7 @@ _Requirements_: [React Native](https://facebook.github.io/react-native/docs/gett
     - [Android] Via Android Studio
       - `yarn studio` (open the project on Android Studio)
       - Press the Run button
+      - If you get an error attempting to start the Android emulator, you may have to set [environment variables](https://stackoverflow.com/questions/40248265/how-to-set-android-sdk-root-in-mac)
     - Via CLI
       - _You may need to launch your device emulator before the next command_
       - `$ yarn android` or  `$ yarn ios`
